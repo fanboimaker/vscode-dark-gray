@@ -1,0 +1,23 @@
+{
+    "name": "dark-gray",
+    "displayName": "Dark Gray",
+    "description": "A theme with the scope of offering a less cluttered interface, and a cleaner and darker look",
+    "version": "0.0.1",
+    "publisher": "strix",
+    "icon": "vscdarkgray.png",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Gray",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Gray-color-theme.json"
+            }
+        ]
+    }
+}
