@@ -5,12 +5,17 @@
     "version": "0.0.1",
     "publisher": "strix",
     "icon": "vscdarkgray.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fanboimaker/vscode-dark-gray.git"
+    },
     "engines": {
         "vscode": "^1.65.0"
     },
     "categories": [
         "Themes"
     ],
+
     "contributes": {
         "themes": [
             {
